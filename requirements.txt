@@ -1,0 +1,9 @@
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.1
+pandas==2.2.3
+transformers==4.46.3
+torch==2.4.1
+openai==1.70.0
+tokenizers==0.20.3

@@ -1,0 +1,100 @@
+"Kindly provide the project update by 3 PM today.";formal
+"The meeting has been rescheduled to 10 AM tomorrow.";formal
+"Please review the attached document at your earliest convenience.";formal
+"Could you confirm your availability for the client call?";formal
+"The deadline for the report has been extended to Friday.";formal
+"I would appreciate your feedback on the proposal draft.";formal
+"Please ensure all deliverables are submitted by EOD.";formal
+"Let me know if you require any further clarification.";formal
+"The team briefing will take place in Conference Room B.";formal
+"Your prompt response on this matter would be appreciated.";formal
+"We need to finalize the agenda by tomorrow morning.";formal
+"Could you please share the latest sales figures?";formal
+"The training session has been postponed until next week.";formal
+"Please confirm receipt of the revised contract terms.";formal
+"Your presence is requested at the strategy meeting.";formal
+"The quarterly review will commence at 9 AM sharp.";formal
+"Kindly address the client’s concerns at your earliest opportunity.";formal
+"Please forward the meeting minutes once finalized.";formal
+"We require your approval on the updated policy draft.";formal
+"The presentation slides need to be finalized today.";formal
+"Could you provide a status update on the project?";formal
+"Please join the conference call at the scheduled time.";formal
+"Your input on the marketing plan would be valuable.";formal
+"The budget review meeting has been moved to Thursday.";formal
+"Let me know if you need any additional resources.";formal
+"Hey, can you shoot me the update by 3?";informal
+"Meeting’s moved to 10 tomorrow, FYI.";informal
+"Take a look at the doc when you can.";informal
+"You free for the client call later?";informal
+"Deadline’s pushed to Friday, no rush now.";informal
+"Mind giving the proposal a quick glance?";informal
+"Don’t forget to send those files today.";informal
+"Any questions? Let me know!";informal
+"Team huddle in Conf Room B, heads up.";informal
+"Get back to me when you can, thanks!";informal
+"We gotta lock the agenda by tomorrow.";informal
+"Can you pass me the latest sales numbers?";informal
+"Training’s off till next week, just so you know.";informal
+"Got the contract changes? Just checking.";informal
+"You’re needed at the strategy meeting, FYI.";informal
+"Quarterly review starts at 9, don’t be late!";informal
+"Client’s got some issues, can you handle it?";informal
+"Send over the meeting notes when you’re done.";informal
+"Policy draft’s ready, need your thumbs-up.";informal
+"Slides gotta be done today, no pressure.";informal
+"How’s the project going? Any updates?";informal
+"Hop on the call at the usual time.";informal
+"Thoughts on the marketing plan? Let me know.";informal
+"Budget meeting’s now on Thursday, FYI.";informal
+"Need anything else? Just say the word.";informal
+"Please ensure your report is submitted by 5 PM.";formal
+"The board meeting has been scheduled for Wednesday.";formal
+"Could you kindly share your progress on the task?";formal
+"Your prompt attention to this matter is appreciated.";formal
+"The client requested revisions to the contract terms.";formal
+"Please confirm your attendance at tomorrow’s workshop.";formal
+"The presentation materials require final approval today.";formal
+"We need your feedback on the draft proposal.";formal
+"The deadline for submissions has been extended.";formal
+"Please coordinate with the team on this matter.";formal
+"Your presence is required at the 2 PM briefing.";formal
+"Could you clarify the details in your email?";formal
+"The training session will proceed as planned.";formal
+"Please provide an update on the pending deliverables.";formal
+"The revised schedule has been sent for review.";formal
+"We await your confirmation regarding the meeting time.";formal
+"Kindly address the discrepancies in the financial report.";formal
+"Please forward the signed documents at your earliest convenience.";formal
+"Your input is needed for the upcoming strategy session.";formal
+"The project timeline has been adjusted accordingly.";formal
+"Could you verify the accuracy of these figures?";formal
+"Please join the call at the designated time.";formal
+"The quarterly targets must be finalized by Friday.";formal
+"We require your approval before proceeding further.";formal
+"Let me know if additional support is needed.";formal
+"Hey, don’t forget to send the report today!";informal
+"Board meeting’s on Wednesday, just a heads-up.";informal
+"How’s that task coming along? Any updates?";informal
+"Can you look into this when you get a sec?";informal
+"Client wants some changes to the contract.";informal
+"You in for the workshop tomorrow?";informal
+"Slides need final sign-off today—no rush though.";informal
+"Got a minute to check the proposal draft?";informal
+"Deadline’s pushed back, so no stress.";informal
+"Mind looping in the team on this one?";informal
+"2 PM briefing—see you there!";informal
+"Your last email had a few unclear bits—mind clarifying?";informal
+"Training’s still on, no changes.";informal
+"Any news on those pending items?";informal
+"New schedule’s out—take a peek when you can.";informal
+"You good with the meeting time?";informal
+"There’s some wonky stuff in the financial report—can you fix?";informal
+"Send over the signed docs whenever you’re done.";informal
+"We need your thoughts for the strategy chat.";informal
+"Timeline’s shifted a bit, FYI.";informal
+"These numbers look right to you?";informal
+"Jump on the call at the usual time.";informal
+"Quarterly goals need locking in by Friday.";informal
+"Just need your go-ahead before we move forward.";informal
+"Need anything else? Just holler.";informal

@@ -1,0 +1,100 @@
+"The principle of superposition in quantum mechanics states that a physical system can exist in multiple states simultaneously until measured or observed.";formal
+"Quantum superposition means stuff can be in two places at once until you look at it - seriously weird physics stuff.";informal
+"The concept of wave-particle duality proposes that all quantum entities exhibit both particle-like and wave-like properties depending on experimental conditions.";formal
+"Wave-particle duality is that trippy idea where light acts like particles sometimes and waves other times - it's both!";informal
+"The standard model of particle physics classifies all known elementary particles and describes three of the four fundamental forces in the universe.";formal
+"The standard model is like the periodic table but for all the tiny bits that make up everything in existence.";informal
+"The anthropic principle in cosmology suggests that observations of the universe must be compatible with the conscious life that observes it.";formal
+"The anthropic principle basically says the universe is the way it is because otherwise we wouldn't be here to see it.";informal
+"The holographic principle in theoretical physics posits that the information in a volume of space can be represented as encoded on its boundary.";formal
+"The holographic principle is the crazy idea that our 3D world might actually be information stored on a 2D surface - mind blown!";informal
+"The many-worlds interpretation of quantum mechanics proposes that all possible outcomes of quantum measurements physically occur in separate, branching universes.";formal
+"The many-worlds theory says every time something could go different ways, the universe splits - so there's a version of you reading this who chose pizza instead.";informal
+"The concept of dark matter refers to hypothetical matter that doesn't interact with electromagnetic radiation but exerts gravitational effects on visible matter.";formal
+"Dark matter is that invisible stuff everywhere that we can't see or touch but holds galaxies together with its gravity.";informal
+"The inflationary universe theory suggests that the early universe underwent an extremely rapid exponential expansion a fraction of a second after the Big Bang.";formal
+"Cosmic inflation is that moment right after the Big Bang when the universe went 'whoosh' and got super big super fast.";informal
+"The concept of quantum tunneling describes how particles can pass through potential energy barriers that would be classically impenetrable.";formal
+"Quantum tunneling is when particles cheat by magically appearing on the other side of barriers they shouldn't be able to cross.";informal
+"The phenomenon of quantum entanglement involves pairs or groups of particles interacting in ways where the quantum state of each cannot be described independently.";formal
+"Quantum entanglement is when particles become BFFs and stay connected no matter how far apart they are - change one, the other instantly changes too.";informal
+"The concept of emergent properties in complex systems refers to novel characteristics that arise from interactions of system components but aren't present in individual parts.";formal
+"Emergent properties are when simple things working together create totally new behaviors you wouldn't predict - like how ant colonies act smart but individual ants are dumb.";informal
+"The theory of punctuated equilibrium in evolutionary biology proposes that species experience long periods of stability interrupted by brief periods of rapid change.";formal
+"Punctuated equilibrium says evolution isn't always slow - sometimes species stay the same for ages then suddenly change really fast.";informal
+"The Gaia hypothesis suggests that living organisms interact with their inorganic surroundings to form a self-regulating system maintaining conditions for life on Earth.";formal
+"The Gaia hypothesis is like thinking of Earth as one giant living thing where everything works together to keep life going.";informal
+"The concept of trophic cascades in ecology describes how changes in top predator populations can cause dramatic effects throughout entire ecosystems.";formal
+"Trophic cascades show how messing with top predators (like wolves) can accidentally change whole landscapes and rivers - nature's domino effect.";informal
+"The Red Queen hypothesis in evolutionary biology proposes that organisms must constantly adapt and evolve just to maintain their relative fitness in changing environments.";formal
+"The Red Queen effect means you have to keep running (evolving) just to stay in the same place in the evolutionary race.";informal
+"The concept of Nash equilibrium in game theory describes a stable state where no player can benefit by unilaterally changing strategy.";formal
+"Nash equilibrium is when everyone's playing their best move and nobody can get ahead by changing their strategy alone - like in poker.";informal
+"The efficient market hypothesis in finance states that asset prices reflect all available information, making it impossible to consistently outperform the market.";formal
+"The efficient market idea says stock prices already know everything, so good luck trying to beat the system consistently.";informal
+"The tragedy of the commons describes how individuals acting in self-interest can deplete shared resources despite it being against the group's long-term interests.";formal
+"The tragedy of the commons is why we can't have nice things - everyone takes too much until there's nothing left for anyone.";informal
+"The concept of cognitive load in psychology refers to the total amount of mental effort being used in working memory at any given time.";formal
+"Cognitive load is how much brainpower you're using right now - too much and you can't think straight anymore.";informal
+"The mere exposure effect demonstrates that people tend to develop preferences for things simply because they are familiar with them.";formal
+"The mere exposure effect means you like stuff more just because you've seen it before - that's why ads keep repeating.";informal
+"The Dunning-Kruger effect describes a cognitive bias where people with low ability at a task overestimate their competence.";formal
+"The Dunning-Kruger effect explains why the worst people are always the most confident - they're too dumb to know they're bad.";informal
+"The concept of confirmation bias refers to the tendency to search for, interpret, and remember information that confirms one's preexisting beliefs.";formal
+"Confirmation bias is why we only notice facts that agree with what we already think and ignore everything else.";informal
+"The fundamental attribution error describes overemphasizing personality-based explanations for others' behavior while underestimating situational factors.";formal
+"The fundamental attribution error is when you blame people's character but excuse yourself because of circumstances - 'I was late because traffic, you're late because lazy'.";informal
+"The concept of groupthink refers to psychological phenomenon where desire for harmony in decision-making groups overrides realistic appraisal of alternatives.";formal
+"Groupthink is when everyone agrees just to get along, even though it's obviously a terrible idea - like those bad movie sequels nobody wanted.";informal
+"The bystander effect demonstrates that individuals are less likely to offer help to victims when other people are present.";formal
+"The bystander effect is why crowds just watch when something bad happens - everyone thinks someone else will deal with it.";informal
+"The concept of neuroplasticity refers to the brain's remarkable ability to reorganize itself by forming new neural connections throughout an individual's lifespan.";formal
+"Neuroplasticity means your brain can rewire itself and learn new tricks no matter how old you are - pretty cool huh?";informal
+"The theory of island biogeography explains how the size and distance of islands affect the number of species that can inhabit them.";formal
+"Island biogeography is basically why bigger islands closer to land have more animals and plants than small faraway ones.";informal
+"The process of cellular respiration involves the breakdown of organic molecules to produce ATP through glycolysis, the Krebs cycle, and oxidative phosphorylation.";formal
+"Cellular respiration is how your cells turn food into energy using oxygen - it's like microscopic power plants in your body.";informal
+"The principle of competitive exclusion states that two species competing for the same limited resources cannot coexist in the same ecological niche indefinitely.";formal
+"Competitive exclusion means if two animals want exactly the same food and space, one's gonna lose out eventually.";informal
+"The concept of allopatric speciation describes how new species can evolve when populations become geographically isolated and experience different evolutionary pressures.";formal
+"Allopatric speciation is when groups of the same animal get separated and slowly turn into completely different species over time.";informal
+"The phenomenon of epigenetics involves changes in gene expression that don't alter the DNA sequence but can be inherited across generations.";formal
+"Epigenetics is how your lifestyle and environment can turn genes on or off - and you might pass these changes to your kids.";informal
+"The theory of endosymbiosis proposes that eukaryotic cells evolved from prokaryotic organisms living together in symbiotic relationships billions of years ago.";formal
+"Endosymbiosis is the idea that our cells' powerhouses (mitochondria) were once free-living bacteria that got swallowed but not digested.";informal
+"The concept of trophic levels describes the position that organisms occupy in a food chain, from primary producers to apex predators.";formal
+"Trophic levels are like nature's food pyramid - plants at the bottom, herbivores in the middle, and meat-eaters at the top.";informal
+"The principle of limiting factors states that biological processes are constrained by whatever essential resource is in shortest supply relative to demand.";formal
+"Limiting factors mean that whatever thing there's least of (water, nutrients, etc.) controls how much living stuff can grow in an area.";informal
+"The phenomenon of convergent evolution occurs when unrelated species independently develop similar traits as adaptations to comparable environmental challenges.";formal
+"Convergent evolution is why sharks and dolphins look alike even though one's a fish and one's a mammal - same problems, similar solutions.";informal
+"The concept of carrying capacity refers to the maximum population size of a species that an environment can sustain indefinitely.";formal
+"Carrying capacity is nature's way of saying 'this is as many deer as this forest can handle before things go bad'.";informal
+"The principle of uniformitarianism in geology states that the same natural processes we observe today operated similarly in the past.";formal
+"Uniformitarianism means the geological forces shaping Earth now (erosion, volcanoes, etc.) worked the same way millions of years ago.";informal
+"The theory of plate tectonics explains how Earth's lithosphere is divided into plates that move and interact at their boundaries.";formal
+"Plate tectonics is why continents drift around, mountains form, and we get earthquakes and volcanoes along the edges of these giant moving slabs.";informal
+"The concept of ecological succession describes the predictable process of change in species composition of an ecological community over time.";formal
+"Ecological succession is how a bare rock becomes soil, then grass, then shrubs, then eventually a whole forest over many years.";informal
+"The phenomenon of biomagnification occurs when concentrations of certain substances increase at higher levels of a food chain.";formal
+"Biomagnification is why top predators end up with crazy amounts of toxins - all the little doses from their prey add up.";informal
+"The principle of competitive advantage in economics explains how entities benefit from specializing in goods or services they can produce relatively more efficiently.";formal
+"Competitive advantage means countries should focus on making what they're best at and trade for everything else - win-win for everyone.";informal
+"The concept of opportunity cost represents the potential benefits an individual or business misses out on when choosing one alternative over another.";formal
+"Opportunity cost is what you give up when you make a choice - like choosing to study means giving up party time.";informal
+"The theory of comparative advantage demonstrates how trade can benefit all parties even when one is more efficient at producing everything.";formal
+"Comparative advantage is why even if you're better at everything than your neighbor, you should still specialize and trade with them.";informal
+"The principle of diminishing returns states that adding more of one factor of production while holding others constant will eventually yield lower incremental returns.";formal
+"Diminishing returns means that at some point, adding more workers to a job just makes everyone get in each other's way.";informal
+"The concept of price elasticity of demand measures how much the quantity demanded of a good responds to changes in its price.";formal
+"Price elasticity is whether people still buy stuff when prices go up - like gas (not very elastic) versus fancy coffee (pretty elastic).";informal
+"The theory of monetary neutrality proposes that changes in the money supply only affect nominal variables like prices in the long run.";formal
+"Monetary neutrality means printing more money might boost the economy short-term, but eventually you just get inflation without real growth.";informal
+"The principle of comparative statics in economics analyzes how equilibrium changes when underlying economic conditions are altered.";formal
+"Comparative statics is comparing before-and-after snapshots of an economy when something important changes, like new taxes or technology.";informal
+"The concept of creative destruction describes how innovation makes old technologies and business models obsolete while creating new opportunities.";formal
+"Creative destruction is why we don't use horse buggies anymore - progress kills some jobs but makes way for better ones.";informal
+"The theory of liquidity preference explains how interest rates are determined by the supply and demand for money in an economy.";formal
+"Liquidity preference is basically about how much people would rather have cash now versus investing it for future returns.";informal
+"The principle of absolute advantage occurs when one producer can create more of a good than another using the same resources.";formal
+"Absolute advantage is when you're just straight-up better at making something than anyone else - no complicated economics, just pure skill.";informal

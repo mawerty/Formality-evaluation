@@ -1,0 +1,100 @@
+"Tornado warning issued; seek shelter immediately.";formal
+"Chemical spill detected; evacuate the area now.";formal
+"Mandatory curfew enacted due to civil unrest.";formal
+"Power outage expected; prepare backup lighting.";formal
+"Wildfire approaching; evacuate via designated routes.";formal
+"Boil water advisory active until further notice.";formal
+"Earthquake detected; drop, cover, and hold.";formal
+"Tsunami alert: move inland to higher ground.";formal
+"Hazardous materials incident; shelter in place.";formal
+"Extreme heat warning; stay hydrated and indoors.";formal
+"Active shooter reported; avoid the vicinity.";formal
+"Gas leak detected; evacuate the building immediately.";formal
+"Blizzard conditions expected; avoid unnecessary travel.";formal
+"Public transportation suspended due to severe weather.";formal
+"Cyberattack ongoing; secure sensitive data immediately.";formal
+"Dangerous air quality levels; wear a mask.";formal
+"Bridge collapse reported; seek alternate routes.";formal
+"Bomb threat received; evacuate the facility now.";formal
+"Volcanic eruption imminent; follow evacuation orders.";formal
+"Flash flood alert; avoid low-lying areas.";formal
+"Pandemic restrictions reinstated; mask mandates in effect.";formal
+"Major highway closed due to hazardous conditions.";formal
+"Suspicious package reported; maintain a safe distance.";formal
+"Extreme cold warning; limit outdoor exposure.";formal
+"Nuclear plant incident; await official instructions.";formal
+"Yo, tornado coming—get to the basement!";informal
+"Dude, gas leak—get outta the house!";informal
+"Heads up, wildfire’s close—bail now!";informal
+"Bro, earthquake—get under a table!";informal
+"PSA: Boil water, don’t drink it.";informal
+"Tsunami warning—run to high ground!";informal
+"Heatwave’s brutal—stay inside, man.";informal
+"Shooter nearby—lock doors and hide.";informal
+"Blizzard’s coming—stock up on snacks.";informal
+"Subway’s down—find another way home.";informal
+"Hackers attacking—change your passwords ASAP.";informal
+"Air’s nasty—wear a mask outside.";informal
+"Bridge is out—take the long way.";informal
+"Bomb threat—get outta there, quick!";informal
+"Volcano’s erupting—time to bounce!";informal
+"Flash flood—don’t drive through water!";informal
+"Cops say masks are back—ugh.";informal
+"Highway’s closed—traffic’s a nightmare.";informal
+"Weird package outside—don’t touch it.";informal
+"Freezing cold—stay in with blankets.";informal
+"Nuke plant trouble—hope it’s nothing.";informal
+"Power’s out—grab the flashlights!";informal
+"Riots downtown—avoid that area.";informal
+"Chem spill—don’t go outside.";informal
+"Train’s not running—find a ride.";informal
+"Severe thunderstorm approaching; secure outdoor objects.";formal
+"Dangerous road conditions reported; avoid travel.";formal
+"Public emergency declared; follow official updates.";formal
+"Structural fire downtown; avoid the area.";formal
+"Contaminated water supply; use bottled water only.";formal
+"Landslide risk high; evacuate hillside homes.";formal
+"Terror threat elevated; report suspicious activity.";formal
+"Avalanche warning in effect; stay off slopes.";formal
+"Major train derailment; emergency crews responding.";formal
+"Drought conditions worsening; conserve water immediately.";formal
+"Massive power surge expected; unplug electronics.";formal
+"Hostage situation ongoing; shelter in place.";formal
+"Dam failure possible; evacuate downstream areas.";formal
+"Toxic algae bloom; avoid lake water.";formal
+"Martial law enacted; comply with authorities.";formal
+"Radiological hazard detected; seek underground shelter.";formal
+"Airport closures due to volcanic ash.";formal
+"Cyber breach confirmed; reset all passwords.";formal
+"Flash freeze expected; roads will ice over.";formal
+"Biological hazard alert; wear protective gear.";formal
+"Major blackout imminent; prepare for outages.";formal
+"Coastal erosion severe; relocate inland.";formal
+"Escaped convict reported; lock all doors.";formal
+"Space debris impact risk; stay indoors.";formal
+"Industrial explosion; hazardous fumes spreading.";formal
+"Big storm coming—bring in your stuff!";informal
+"Roads are a mess—stay home, dude.";informal
+"Gov says emergency—keep the TV on.";informal
+"Fire downtown—don’t go that way.";informal
+"Water’s nasty—grab bottled, just in case.";informal
+"Hills might slide—get out if you’re up there.";informal
+"Terror alert—weird stuff? Call cops.";informal
+"Avalanche danger—ski trip’s a no-go.";informal
+"Train wreck—avoid the tracks, man.";informal
+"Super dry—don’t waste water, okay?";informal
+"Power might fry—unplug your stuff!";informal
+"Hostage thing—stay inside, lock up.";informal
+"Dam could break—get away from the river.";informal
+"Lake’s toxic—no swimming, seriously.";informal
+"Cops in charge—just do what they say.";informal
+"Radiation scare—basement’s safest, hurry.";informal
+"Volcano ash—flights are screwed, FYI.";informal
+"Hackers got in—change your logins now.";informal
+"Instant ice—roads gonna be a disaster.";informal
+"Bio hazard—mask up if you go out.";informal
+"Blackout coming—charge your phone quick.";informal
+"Beach eroding—don’t build sandcastles lol.";informal
+"Convict loose—double-check your locks.";informal
+"Space junk falling—weird but stay inside.";informal
+"Factory blew up—air’s nasty, stay in.";informal

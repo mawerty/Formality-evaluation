@@ -1,0 +1,100 @@
+"A state of emergency has been declared; all residents must remain indoors until further notice.";formal
+"Extreme wind gusts expected overnight; secure loose objects and avoid unnecessary outdoor activity.";formal
+"A hazardous chemical leak has been reported; evacuate within a 1-mile radius immediately.";formal
+"Major dam failure imminent; residents in low-lying areas must relocate to designated shelters.";formal
+"A widespread cyberattack is disrupting critical services; refrain from using online banking systems.";formal
+"Aircraft collision reported near downtown; emergency crews responding—avoid airspace and surrounding streets.";formal
+"Martial law is now in effect; comply with all curfew and security checkpoints.";formal
+"A contagious disease outbreak has been confirmed; wear masks and practice social distancing.";formal
+"Severe blizzard conditions expected; roads will be impassable—shelter in place if possible.";formal
+"Terror threat level raised to critical; report any suspicious behavior to authorities immediately.";formal
+"Nuclear power plant malfunction detected; await official instructions before taking protective action.";formal
+"Flash flooding likely in low-lying areas; do not attempt to drive through water.";formal
+"A major gas pipeline rupture has occurred; evacuate and avoid open flames or sparks.";formal
+"Large-scale power outage expected; prepare alternative lighting and refrigeration for perishables.";formal
+"Active shooter reported at the mall; shelter in place and lock all doors.";formal
+"A train carrying hazardous materials has derailed; stay indoors and close all windows.";formal
+"Coastal tsunami warning issued; move to higher ground at least 2 miles inland.";formal
+"Extreme heat advisory in effect; stay hydrated and check on vulnerable neighbors.";formal
+"A wildfire is spreading rapidly; mandatory evacuations ordered for all western suburbs.";formal
+"Public transportation suspended indefinitely due to safety concerns; seek alternate routes immediately.";formal
+"Biological contamination confirmed in water supply; use only bottled or boiled water.";formal
+"Escaped armed convict last seen near downtown; do not approach, call 911.";formal
+"A major bridge collapse has occurred; avoid the area and follow detour signs.";formal
+"Aircraft hijacking reported; all flights grounded until further notice—expect delays.";formal
+"Massive solar flare detected; potential for widespread communication and power disruptions.";formal
+"Dude, the governor just announced a lockdown—better stock up on snacks and stay inside.";informal
+"Crazy winds tonight—your patio furniture’s gonna fly away if you don’t tie it down!";informal
+"Yo, there’s a chemical spill near the factory—get outta there if you’re close!";informal
+"They’re saying the dam might break—if you’re near the river, get to high ground now!";informal
+"Hackers are wrecking everything—don’t log into your bank or anything important today.";informal
+"Two planes almost crashed downtown—cops are everywhere, avoid that whole area.";informal
+"Military’s taking over—curfew at 8 PM, no joke, don’t risk going out.";informal
+"Some weird virus is going around—mask up and don’t hug randos, okay?";informal
+"Blizzard’s gonna dump like 3 feet—stay home or you’ll be stuck for days.";informal
+"Terror threat’s super high right now—if something looks off, call the cops ASAP.";informal
+"Nuclear plant’s acting up—don’t panic but maybe don’t drink tap water yet.";informal
+"Flash flood warning—seriously, don’t try to drive through that water, it’s deeper than it looks.";informal
+"Gas line blew up—whole neighborhood’s evacuating, and no smoking anywhere near!";informal
+"Power’s gonna be out for hours—charge your phone and dig out the candles.";informal
+"Active shooter at the mall—hide if you’re there, otherwise stay far away.";informal
+"Train wreck with toxic stuff—close your windows and stay inside, no joke.";informal
+"Tsunami alert—if you’re near the beach, run inland right now, don’t wait!";informal
+"Heatwave’s gonna be brutal—drink water, stay in AC, and check on old folks.";informal
+"Wildfire’s getting closer—if you’re in the west side, grab your stuff and go.";informal
+"Buses and trains are shut down—guess you’re walking or calling an Uber today.";informal
+"Water’s poisoned or something—only use bottled, and don’t even brush your teeth with tap.";informal
+"Some armed dude escaped jail—lock your doors and don’t answer for strangers.";informal
+"Bridge just collapsed—traffic’s a nightmare, find another way home for sure.";informal
+"Plane got hijacked—all flights canceled, so your trip’s probably ruined, sorry.";informal
+"Solar flare might mess up phones and power—expect things to be glitchy today.";informal
+"A tornado has been spotted in your county; take shelter in your basement immediately.";formal
+"The National Weather Service has issued a severe thunderstorm warning for your area until 9 PM.";formal
+"All residents within 5 miles of the chemical plant must evacuate due to a major leak.";formal
+"A mandatory evacuation order is now in effect for coastal communities ahead of Hurricane Lorenzo.";formal
+"The Department of Health confirms a measles outbreak; unvaccinated individuals should avoid public spaces.";formal
+"Police are searching for an armed suspect last seen near Main Street; shelter in place.";formal
+"A water main break has contaminated the supply; boil all water before consumption.";formal
+"The governor has declared a state of emergency due to widespread flooding across the region.";formal
+"Metro services are suspended indefinitely following the discovery of suspicious packages at multiple stations.";formal
+"A wildfire is approaching the northern suburbs; prepare evacuation bags and monitor official channels.";formal
+"The CDC has issued a travel advisory due to a new infectious disease outbreak.";formal
+"A 7.2 magnitude earthquake has struck; check for gas leaks and structural damage.";formal
+"Flash flooding is expected in low-lying areas; move vehicles to higher ground immediately.";formal
+"A cyberattack has disrupted hospital systems; only visit emergency rooms for life-threatening conditions.";formal
+"The National Guard has been deployed to assist with the ongoing civil unrest downtown.";formal
+"A train derailment has spilled hazardous materials; residents within 2 miles should evacuate.";formal
+"Extreme cold temperatures expected overnight; shelters are open for those without heat.";formal
+"A dam failure is imminent; all downstream communities must evacuate immediately.";formal
+"The airport is closed due to volcanic ash; all flights are canceled indefinitely.";formal
+"A prison break has occurred; residents should lock doors and report suspicious activity.";formal
+"A public health emergency has been declared due to contaminated food supplies.";formal
+"Terror threat level elevated to severe; expect increased security at transportation hubs.";formal
+"A major power outage is expected to last 48 hours; conserve phone batteries.";formal
+"The water treatment plant has failed; ration bottled water until further notice.";formal
+"A bridge collapse has severed major routes; expect significant traffic disruptions.";formal
+"Tornado warning! Get to the basement right now - it's headed our way!";informal
+"Crazy storm coming - unplug your electronics and stay away from windows, dude.";informal
+"Chemical plant leak - if you're near 5th Ave, get out ASAP!";informal
+"Hurricane's turning this way - grab your stuff and head inland immediately.";informal
+"Measles outbreak at the school - keep your kids home if not vaccinated.";informal
+"Some armed guy running around Main St - lock your doors and stay put.";informal
+"Water's contaminated - don't drink it unless you boil it for 5 minutes.";informal
+"State of emergency declared - flooding's everywhere, better stay off the roads.";informal
+"Bomb scare shut down all subways - find another way to work today.";informal
+"Wildfire smoke getting thick - pack your meds and important docs just in case.";informal
+"New virus going around - maybe skip the concert this weekend, just saying.";informal
+"Earthquake just hit - check for broken pipes before you do anything else.";informal
+"Flash flood warning - your car will float away if you park on the street.";informal
+"Hospitals' computers are down - only go if you're literally dying right now.";informal
+"Riots downtown - National Guard rolling in, better avoid the whole area.";informal
+"Train wreck spilled nasty chemicals - if you smell anything funny, get out!";informal
+"Polar vortex coming - pipes might freeze, leave faucets dripping tonight.";informal
+"Dam could break any minute - if you're downstream, leave while you can.";informal
+"Volcano ash canceled all flights - your vacation's probably ruined, sorry man.";informal
+"Prison escapee loose in town - keep your garage and cars locked tight.";informal
+"Food poisoning outbreak - maybe skip that popular salad place for now.";informal
+"Terror threat high - airports are a mess, arrive 4 hours early.";informal
+"Power might be out for days - charge everything and find your flashlights.";informal
+"Water plant failed - buy bottled water now before stores run out.";informal
+"Bridge collapsed - your commute just got way longer, find alternate routes.";informal

@@ -1,0 +1,100 @@
+"Mitosis is cell division producing two identical daughter cells.";formal
+"Mitosis is when cells split into twins.";informal
+"Gravity is the force attracting masses toward each other.";formal
+"Gravity is what keeps us from floating away.";informal
+"An atom is the smallest unit of matter.";formal
+"An atom is tiny stuff that makes everything.";informal
+"Democracy is governance by elected representatives of the people.";formal
+"Democracy is people voting for their leaders.";informal
+"Entropy measures a system’s disorder or randomness.";formal
+"Entropy is how messy things get over time.";informal
+"A catalyst speeds up chemical reactions unchanged.";formal
+"A catalyst makes reactions go faster.";informal
+"Inflation is the general rise in price levels.";formal
+"Inflation means stuff gets more expensive.";informal
+"Evolution is species changing over generations.";formal
+"Evolution is how animals adapt and change.";informal
+"A neuron transmits electrical signals in the body.";formal
+"A neuron is a brain messenger cell.";informal
+"Photosynthesis converts light to chemical energy in plants.";formal
+"Photosynthesis is plants making food from sunlight.";informal
+"Symbiosis is organisms living together for mutual benefit.";formal
+"Symbiosis is when two species help each other.";informal
+"Kinetic energy is energy from motion.";formal
+"Kinetic energy is the energy of moving things.";informal
+"An ecosystem is a community of interacting organisms.";formal
+"An ecosystem is nature’s neighborhood of living things.";informal
+"Osmosis is solvent diffusion through a semipermeable membrane.";formal
+"Osmosis is water moving through tiny gaps.";informal
+"A hypothesis is a testable scientific prediction.";formal
+"A hypothesis is an educated guess in science.";informal
+"Capitalism is private ownership driving economic production.";formal
+"Capitalism is businesses running stuff for profit.";informal
+"Thermodynamics studies heat and energy transfer.";formal
+"Thermodynamics is about how heat moves.";informal
+"A virus is a non-living infectious agent.";formal
+"A virus is a tiny germ that hijacks cells.";informal
+"Friction resists relative motion between surfaces.";formal
+"Friction is what makes things slow down.";informal
+"Biodiversity is the variety of life in nature.";formal
+"Biodiversity means lots of different living things.";informal
+"A gene is a hereditary DNA sequence.";formal
+"A gene is a bit of DNA you inherit.";informal
+"Magnetism is the force between charged particles.";formal
+"Magnetism is why magnets stick to metal.";informal
+"A placebo is a substance with no therapeutic effect.";formal
+"A placebo is fake medicine that tricks your brain.";informal
+"Urbanization is population shift from rural to urban areas.";formal
+"Urbanization is people moving into cities.";informal
+"Respiration is the biochemical process of energy release.";formal
+"Respiration is how cells breathe and get energy.";informal
+"Diffusion is the passive movement of particles from high to low concentration.";formal
+"Diffusion is stuff spreading out on its own.";informal
+"A solvent is a liquid that dissolves solutes.";formal
+"A solvent is what dissolves other stuff.";informal
+"An algorithm is a step-by-step computational procedure.";formal
+"An algorithm is a recipe for computers.";informal
+"Plate tectonics describes Earth's lithospheric plate movements.";formal
+"Plate tectonics is how Earth's crust shifts.";informal
+"Homeostasis is the body's internal balance maintenance.";formal
+"Homeostasis is your body keeping things stable.";informal
+"A covalent bond involves electron sharing between atoms.";formal
+"A covalent bond is atoms sharing electrons.";informal
+"Fermentation is anaerobic sugar breakdown for energy.";formal
+"Fermentation is how cells make energy without oxygen.";informal
+"A photon is a quantum of light energy.";formal
+"A photon is a tiny light particle.";informal
+"The Big Bang is the universe's expansion origin.";formal
+"The Big Bang started everything, dude.";informal
+"A synapse is a junction between neurons.";formal
+"A synapse is where brain cells chat.";informal
+"An isotope is an atom with extra neutrons.";formal
+"An isotope is a heavier version of an atom.";informal
+"A biome is a large ecological community.";formal
+"A biome is a huge natural habitat.";informal
+"Oxidation is the loss of electrons in reactions.";formal
+"Oxidation is when stuff loses electrons.";informal
+"A polymer is a large, repeating molecular chain.";formal
+"A polymer is a long chain of molecules.";informal
+"A catalyst lowers activation energy in reactions.";formal
+"A catalyst helps reactions happen easier.";informal
+"A quark is a fundamental subatomic particle.";formal
+"A quark is a tiny building block of matter.";informal
+"A nebula is a cloud of gas and dust.";formal
+"A nebula is space glitter in gas form.";informal
+"Centripetal force keeps objects moving in circles.";formal
+"Centripetal force is what spins things around.";informal
+"A zygote is a fertilized single-celled organism.";formal
+"A zygote is the first stage of a baby.";informal
+"A neurotransmitter is a chemical messenger in neurons.";formal
+"A neurotransmitter is how brain cells talk.";informal
+"A fossil is preserved remains of ancient life.";formal
+"A fossil is a dead thing turned to rock.";informal
+"A black hole is a spacetime region with extreme gravity.";formal
+"A black hole sucks in everything, even light.";informal
+"A chromosome is a DNA-protein complex.";formal
+"A chromosome holds your genetic info.";informal
+"A catalyst remains unchanged after a reaction.";formal
+"A catalyst doesn’t get used up in reactions.";informal
+"A proton is a positively charged subatomic particle.";formal
+"A proton is a tiny positive thing in atoms.";informal

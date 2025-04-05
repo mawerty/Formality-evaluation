@@ -1,0 +1,100 @@
+"I would appreciate it if you could submit the financial analysis by close of business on Thursday.";formal
+"The executive team has requested that all department heads attend the quarterly review meeting next Monday at 9 AM.";formal
+"Please provide a detailed status update on the client project by the end of the day tomorrow.";formal
+"Could you kindly review the attached contract and provide your feedback by Wednesday afternoon at the latest?";formal
+"We need to finalize the budget proposal before submitting it to the board for approval on Friday.";formal
+"Your expertise would be valuable in addressing the technical issues raised during yesterday's product development meeting.";formal
+"Please ensure all team members have completed the mandatory compliance training by the end of this week.";formal
+"I'm writing to confirm whether you'll be available for the client presentation scheduled for next Tuesday morning.";formal
+"The deadline for submitting expense reports for this quarter has been extended until next Monday.";formal
+"Could you please coordinate with the marketing team to align our messaging for the upcoming product launch?";formal
+"We require your approval on the revised project timeline before we can proceed with implementation.";formal
+"Please be advised that the IT department will be performing system maintenance this Saturday from 8 PM to midnight.";formal
+"Your prompt response regarding the availability of your team for the workshop would be greatly appreciated.";formal
+"The committee has requested additional data to support the recommendations in your last progress report.";formal
+"Kindly remind your team members about the new document submission guidelines that take effect next month.";formal
+"We need to schedule a follow-up meeting to discuss the unresolved issues from today's discussion.";formal
+"Please verify the accuracy of the sales figures before we include them in the quarterly report.";formal
+"Could you provide an update on whether the vendor has addressed the concerns we raised last week?";formal
+"The HR department is requesting all managers to complete the performance evaluation forms by next Friday.";formal
+"I would like to schedule a brief call to review the changes to the project scope.";formal
+"Please ensure that all conference room bookings are made through the new online scheduling system.";formal
+"We need your input on the proposed changes to the employee benefits package by Wednesday.";formal
+"Could you confirm whether the technical team has resolved the server issues reported this morning?";formal
+"The leadership team would like to review the market analysis before making final decisions.";formal
+"Please submit your travel requests for the upcoming conference at least two weeks in advance.";formal
+"Hey, do you think you could get that financial analysis to me by Thursday EOD?";informal
+"Just a heads-up - the big bosses want all department leads at Monday's 9 AM review meeting.";informal
+"Any chance you could shoot me a quick update on the client project by tomorrow?";informal
+"Mind taking a look at the contract I attached and letting me know your thoughts by Wednesday?";informal
+"We really need to wrap up the budget stuff before Friday's board meeting - you good to help?";informal
+"You're the expert on this - could you take a look at those tech issues from yesterday's meeting?";informal
+"Don't forget everyone needs to finish that compliance training by Friday - can you remind your team?";informal
+"You free next Tuesday morning? We've got that big client presentation scheduled.";informal
+"Good news - we've got until next Monday to submit those expense reports now.";informal
+"Could you sync up with marketing to make sure we're all saying the same thing about the new product?";informal
+"We're stuck until you give the thumbs-up on the new project timeline - when can you review?";informal
+"FYI - IT's doing some maintenance Saturday night so systems might be down for a bit.";informal
+"Any word on whether your team can make that workshop? Need to confirm numbers ASAP.";informal
+"The higher-ups want more data to back up what you said in your last report - can you add some?";informal
+"Hey, don't forget to tell your team about those new document rules starting next month.";informal
+"We didn't get through everything today - when can we meet to finish the discussion?";informal
+"Before we put these sales numbers in the report, can you double-check they're correct?";informal
+"Any update on whether the vendor fixed those problems we complained about last week?";informal
+"HR's on my case about those performance reviews - can you get yours done by Friday?";informal
+"Got a few minutes to chat about the changes to the project? Need your input.";informal
+"Just a reminder - we're supposed to book meeting rooms through that new online system now.";informal
+"What do you think about the proposed changes to benefits? Need your thoughts by Wednesday.";informal
+"Any word from the tech guys about those server problems this morning? Everything fixed now?";informal
+"The execs want to see that market analysis before they make any final calls on this.";informal
+"Don't forget to put in your travel requests for the conference at least two weeks early!";informal
+"Please submit your completed project evaluation forms to HR by Friday at 5 PM.";formal
+"Could you provide a detailed update on the quarterly sales figures by tomorrow morning?";formal
+"The executive team requests your presence at the strategic planning session next Wednesday.";formal
+"Kindly review the attached policy changes and submit any feedback by end of day.";formal
+"We need confirmation of your availability for the client meeting scheduled for Thursday.";formal
+"Please ensure all team members have completed the mandatory safety training module.";formal
+"Could you prepare a brief summary of your department's accomplishments this quarter?";formal
+"The deadline for submitting travel expense reports has been extended until next Monday.";formal
+"We require your approval on the revised budget before proceeding with implementation.";formal
+"Please coordinate with IT regarding the software upgrade scheduled for this weekend.";formal
+"Your input would be valuable for the upcoming product development brainstorming session.";formal
+"Kindly remind your team about the new document retention policy taking effect soon.";formal
+"Could you verify the accuracy of the data before we finalize the report?";formal
+"We need to schedule a follow-up meeting to address the remaining action items.";formal
+"Please submit your vacation requests for the third quarter by the end of June.";formal
+"The compliance department requires all managers to complete the new training course.";formal
+"Could you provide an update on the status of the vendor contract negotiations?";formal
+"Please review the meeting minutes and confirm they accurately reflect the discussion.";formal
+"We would appreciate your feedback on the proposed changes to the workflow process.";formal
+"Kindly ensure your team's timesheets are submitted by noon every Friday.";formal
+"Could you clarify the timeline for completing the current phase of the project?";formal
+"Please confirm receipt of the updated guidelines distributed earlier this week.";formal
+"We need your authorization before processing the purchase order for new equipment.";formal
+"The audit team will need access to your department's financial records next week.";formal
+"Please provide your availability for a 30-minute call to discuss the proposal.";formal
+"Hey, don't forget to turn in those project eval forms to HR by Friday!";informal
+"Can you shoot me an update on this quarter's sales numbers by tomorrow?";informal
+"Big meeting with the execs next Wednesday - they want you there too.";informal
+"Take a look at these policy changes when you get a chance and let me know your thoughts.";informal
+"You free for that client meeting on Thursday? Need to confirm numbers.";informal
+"Make sure your team finishes that safety training - they're checking completion.";informal
+"Mind putting together a quick recap of what your team's been up to?";informal
+"Good news - we've got until Monday to submit those travel expenses now.";informal
+"Need your OK on the budget changes before we can move forward.";informal
+"Can you touch base with IT about that software update happening this weekend?";informal
+"We're brainstorming new product ideas next week - would love your input.";informal
+"Don't forget to tell your team about those new document rules coming up.";informal
+"Before we send out the report, can you double-check these numbers for me?";informal
+"We didn't get through everything last time - when can we meet again?";informal
+"If you want time off in July/August, better put in your requests soon.";informal
+"Compliance is bugging me about that new training - can you get it done?";informal
+"Any update on how things are going with that vendor contract?";informal
+"Take a look at these meeting notes and make sure I didn't miss anything.";informal
+"What do you think about these workflow changes they're proposing?";informal
+"Remind your team that timesheets are due by Friday lunchtime, as usual.";informal
+"How much longer do you think this project phase will take?";informal
+"Did you get those new guidelines I sent out earlier this week?";informal
+"Can you approve this equipment order so we can get it processed?";informal
+"Auditors will be poking around next week - they might need some files from you.";informal
+"When are you free for a quick chat about the proposal? 30 mins max.";informal

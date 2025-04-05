@@ -1,0 +1,100 @@
+"The Doppler effect describes the frequency shift of waves due to relative motion between source and observer.";formal
+"The Doppler effect is why sirens sound different when they pass by you.";informal
+"Quantum entanglement occurs when particles remain interconnected regardless of distance, defying classical physics.";formal
+"Quantum entanglement is when particles stay weirdly linked no matter how far apart.";informal
+"The greenhouse effect traps thermal radiation, maintaining Earth's habitable temperature range.";formal
+"The greenhouse effect is like Earth wearing a heat-trapping blanket.";informal
+"Cognitive dissonance refers to mental discomfort from holding contradictory beliefs or values.";formal
+"Cognitive dissonance is that stress when your brain fights itself over beliefs.";informal
+"Pareto efficiency describes an allocation where no individual can improve without another worsening.";formal
+"Pareto efficiency means you can't help someone without screwing over someone else.";informal
+"The bystander effect occurs when individuals are less likely to help in groups.";formal
+"The bystander effect is why nobody helps when everyone's watching.";informal
+"Antibiotic resistance develops when bacteria evolve to survive antimicrobial treatments.";formal
+"Antibiotic resistance is when germs outsmart our medicines and keep growing.";informal
+"The placebo effect demonstrates symptom improvement from inactive treatments due to expectation.";formal
+"The placebo effect is when fake medicine works just because you believe.";informal
+"Opportunity cost represents the value of the next best alternative foregone.";formal
+"Opportunity cost is what you give up when you pick something else.";informal
+"The Coriolis effect causes deflection of moving objects due to Earth's rotation.";formal
+"The Coriolis effect is why hurricanes spin different ways in different hemispheres.";informal
+"Tragedy of the commons describes resource depletion from unregulated collective use.";formal
+"Tragedy of the commons is when everyone uses something until it's ruined.";informal
+"The photoelectric effect involves electron emission when light strikes a material.";formal
+"The photoelectric effect is light kicking electrons out of metal.";informal
+"Comparative advantage explains why countries benefit from specializing in certain productions.";formal
+"Comparative advantage means countries should stick to what they're best at.";informal
+"The Peter principle states people rise to their level of incompetence.";formal
+"The Peter principle means you get promoted until you suck at your job.";informal
+"The Flynn effect documents rising IQ scores across generations globally.";formal
+"The Flynn effect shows people keep getting smarter over time.";informal
+"The Dunning-Kruger effect describes unskilled individuals overestimating their ability.";formal
+"The Dunning-Kruger effect is when clueless people think they're experts.";informal
+"The Mandela effect refers to collective false memories of events.";formal
+"The Mandela effect is when tons of people remember things wrong.";informal
+"The butterfly effect suggests small changes can lead to vastly different outcomes.";formal
+"The butterfly effect means a tiny change can mess up everything later.";informal
+"The Hawthorne effect occurs when behavior changes due to observation awareness.";formal
+"The Hawthorne effect is when people act different because they're being watched.";informal
+"The Mozart effect proposes temporary enhancement of spatial reasoning from music.";formal
+"The Mozart effect is that idea that classical music makes you smarter.";informal
+"The Baader-Meinhof phenomenon describes noticing recently learned information everywhere.";formal
+"The Baader-Meinhof phenomenon is when you learn something and suddenly see it all over.";informal
+"The Streisand effect occurs when attempts to suppress information backfire spectacularly.";formal
+"The Streisand effect is when trying to hide something makes it famous.";informal
+"The halo effect biases perception due to one outstanding trait.";formal
+"The halo effect is when one good thing makes you ignore flaws.";informal
+"The framing effect shows how presentation alters decision-making.";formal
+"The framing effect means how you say something changes how people choose.";informal
+"The endowment effect makes people value owned items more.";formal
+"The endowment effect is when you overprice stuff just because it's yours.";informal
+"Thermal expansion refers to the tendency of matter to change volume in response to temperature variations.";formal
+"Thermal expansion is why stuff gets bigger when it gets hotter.";informal
+"The second law of thermodynamics states that entropy in an isolated system always increases over time.";formal
+"The second law means things naturally get more disordered unless you work to fix them.";informal
+"Electromagnetic induction is the production of voltage across a conductor exposed to changing magnetic fields.";formal
+"Electromagnetic induction is how moving magnets can create electricity in wires.";informal
+"The Heisenberg uncertainty principle establishes fundamental limits to measuring complementary quantum properties simultaneously.";formal
+"The uncertainty principle says you can't perfectly know both where something is and how fast it's moving.";informal
+"Natural selection describes how advantageous traits become more common in populations over generations.";formal
+"Natural selection means the best-adapted critters survive and have more babies.";informal
+"The double helix structure of DNA consists of two antiparallel nucleotide chains.";formal
+"DNA looks like a twisted ladder made of genetic building blocks.";informal
+"The theory of relativity revolutionized physics by unifying space and time into spacetime.";formal
+"Relativity messed up all our normal ideas about time and space.";informal
+"The Krebs cycle is a series of chemical reactions that generate energy in cells.";formal
+"The Krebs cycle is how cells break down food to make energy.";informal
+"The Pauli exclusion principle states that no two fermions can occupy the same quantum state.";formal
+"The exclusion principle means particles can't be in the exact same place doing the exact same thing.";informal
+"The Hardy-Weinberg principle provides a mathematical model for genetic equilibrium in populations.";formal
+"Hardy-Weinberg is a fancy way to track how genes spread in groups.";informal
+"The Miller-Urey experiment demonstrated how organic compounds could form in early Earth conditions.";formal
+"Miller-Urey showed how lightning could cook up life's building blocks in primordial soup.";informal
+"The photoelectric effect occurs when electromagnetic radiation ejects electrons from a material's surface.";formal
+"The photoelectric effect is when light knocks electrons loose from metal.";informal
+"The Stern-Gerlach experiment provided early evidence for quantum spin angular momentum.";formal
+"Stern-Gerlach proved tiny particles have weird built-in spin properties.";informal
+"The Meissner effect describes how superconductors expel magnetic fields below critical temperature.";formal
+"The Meissner effect makes supercold materials push away magnets like magic.";informal
+"The Hall effect produces voltage differences in conductors carrying current in magnetic fields.";formal
+"The Hall effect is how magnets can create sideways voltage in wires.";informal
+"The Zeeman effect involves splitting of spectral lines under magnetic field influence.";formal
+"The Zeeman effect shows how magnets can mess with light's color patterns.";informal
+"The Compton effect demonstrates wavelength increase in photons after electron scattering.";formal
+"The Compton effect is when light particles lose energy after hitting electrons.";informal
+"The Raman effect involves inelastic scattering of photons by molecular vibrations.";formal
+"The Raman effect lets scientists ID molecules by how they scatter light.";informal
+"The Joule-Thomson effect describes temperature changes in gases during throttled expansion.";formal
+"The Joule-Thomson effect is why some gases cool when they expand.";informal
+"The Faraday effect causes rotation of light's polarization plane in magnetic fields.";formal
+"The Faraday effect makes magnets twist light waves as they pass through.";informal
+"The Stark effect involves splitting of atomic energy levels in electric fields.";formal
+"The Stark effect is how electricity can change an atom's light signature.";informal
+"The Kerr effect describes refractive index changes in materials under electric fields.";formal
+"The Kerr effect makes materials bend light differently when you zap them.";informal
+"The Peltier effect generates heating or cooling at junctions of dissimilar conductors.";formal
+"The Peltier effect lets electricity create hot and cold spots in metals.";informal
+"The Seebeck effect produces voltage differences in thermoelectric circuits with temperature gradients.";formal
+"The Seebeck effect turns heat differences directly into electricity.";informal
+"The Thomson effect describes heat absorption or release in current-carrying conductors.";formal
+"The Thomson effect makes wires heat up or cool down oddly when current flows.";informal

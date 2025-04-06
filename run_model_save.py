@@ -1,19 +1,16 @@
 import os
 import json
 import numpy as np
-import argparse # Import the argparse library
-import sys # Import sys to exit gracefully
+import argparse
+import sys
 
-# Import project modules
 from data_loader import load_datasets
 from models.hf_model import HuggingFaceModel
 from models.llm_llamaapi_model import LLMModelLLAMA
 from models.llm_openai_model import LLMModelOpenAI
 from models.baseline_model import BaselineModel
-# from evaluator import evaluate_model # Keep if needed later, but not used in this flow
-import config # Import config to access constants
+import config
 
-# --- Available Models Mapping ---
 AVAILABLE_MODELS = {
     "xlmr_classifier": (HuggingFaceModel, "s-nlp/xlmr_formality_classifier"),
     "deberta_large_ranker": (HuggingFaceModel, "s-nlp/deberta-large-formality-ranker"),
@@ -40,9 +37,9 @@ def main(args):
     if os.path.exists(output_file):
         print(f"Output file already exists: {output_file}")
         print("Skipping execution. To re-run, delete the existing file.")
-        sys.exit(0) # Exit the script cleanly
+        sys.exit(0)
 
-    # --- 2. Load Dataset (Only if file doesn't exist) ---
+    # --- 2. Load Dataset  ---
     print("\nOutput file not found. Proceeding with execution...")
     print("Loading dataset...")
     sentences, true_labels, sentence_types, sentence_lengths = load_datasets(
@@ -52,7 +49,7 @@ def main(args):
     )
     if not sentences:
         print("Error: No data loaded. Check dataset path in config.py.")
-        sys.exit(1) # Exit with an error code
+        sys.exit(1)
 
     print(f"Loaded {len(sentences)} sentences.")
 
@@ -65,18 +62,15 @@ def main(args):
         print(f"Model '{model_name}' initialized successfully.")
     except Exception as e:
         print(f"Error initializing model '{model_name}': {e}")
-        sys.exit(1) # Exit with an error code
-
+        sys.exit(1)
     # --- 4. Predict ---
     print(f"\nCalculating scores using model '{model_name}'...")
     try:
         scores = model.predict(sentences)
         print(f"Calculated {len(scores)} scores.")
 
-        # Create output directory if needed (important!)
         os.makedirs(output_dir, exist_ok=True)
 
-        # Prepare data for saving
         output_data = [
             [
                 sentences[i],
@@ -88,28 +82,25 @@ def main(args):
             for i in range(len(sentences))
         ]
 
-        # Save results
         with open(output_file, 'w') as f:
             json.dump(output_data, f, indent=4)
         print(f"Saved new results to {output_file}")
 
     except Exception as e:
         print(f"Error during prediction or saving for model '{model_name}': {e}")
-        sys.exit(1) # Exit with an error code
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    # --- Argument Parsing Setup ---
     parser = argparse.ArgumentParser(description="Run formality detection model prediction if results don't exist.")
 
     parser.add_argument(
         "--model",
         type=str,
         required=True,
-        choices=list(AVAILABLE_MODELS.keys()), # Restrict choices
+        choices=list(AVAILABLE_MODELS.keys()),
         help="Name of the model to run."
     )
-    # Removed --force-rerun argument
 
     args = parser.parse_args()
     main(args)

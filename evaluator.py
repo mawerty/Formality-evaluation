@@ -1,4 +1,3 @@
-# evaluator.py
 import numpy as np
 from sklearn.metrics import (
     accuracy_score,
@@ -12,7 +11,7 @@ from sklearn.metrics import (
 )
 from typing import List, Dict, Any, Tuple, Optional
 
-from config import POSITIVE_LABEL # Assuming POSITIVE_LABEL is defined (e.g., 1)
+from config import POSITIVE_LABEL
 
 def calculate_metrics(
     y_true: List[int],
@@ -66,10 +65,7 @@ def find_optimal_threshold(
 
     if strategy == "maximize_f1":
         precision, recall, thresholds = precision_recall_curve(y_true_arr, scores_arr, pos_label=POSITIVE_LABEL)
-        # thresholds array is one smaller than precision/recall, add a value for the last point
-        # We calculate F1 based on precision/recall pairs corresponding to thresholds
-        # Exclude the last precision/recall pair (precision=1, recall=0) which doesn't correspond to a threshold
-        f1_scores = 2 * (precision[:-1] * recall[:-1]) / (precision[:-1] + recall[:-1] + 1e-9) # Avoid division by zero
+        f1_scores = 2 * (precision[:-1] * recall[:-1]) / (precision[:-1] + recall[:-1] + 1e-9) 
         valid_indices = ~np.isnan(f1_scores) # Handle potential NaNs if precision+recall is 0
         if np.any(valid_indices):
             best_idx = np.argmax(f1_scores[valid_indices])
@@ -120,7 +116,6 @@ def evaluate_model(
     true_labels: List[int],
     threshold_strategy: str = "maximize_j", # e.g., 'fixed', 'maximize_f1', 'maximize_j'
     fixed_threshold_value: float = 0.5, # Only used if threshold_strategy is 'fixed'
-    # Removed percentile logic as it's generally not recommended for evaluation
 ) -> Dict[str, Any]:
     """
     Evaluates a model, returning metrics, scores, predictions etc.
@@ -128,21 +123,18 @@ def evaluate_model(
     """
     print(f"Starting evaluation with threshold strategy: {threshold_strategy}")
     results = {}
-    results["scores"] = np.array(scores) # Store as numpy array for consistency
+    results["scores"] = np.array(scores)
     results["true_labels"] = np.array(true_labels)
-
-    # Add epsilon only if needed for specific calculations later, not globally
-    # scores = [s + 1e-8 for s in scores]
 
     if not scores or len(scores) != len(true_labels):
         print(f"Error: Scores list is empty or length mismatch with true_labels.")
         return {"error": "Input data error"}
 
-    scores_arr = np.array(scores) # Use numpy array
+    scores_arr = np.array(scores)
     true_labels_arr = np.array(true_labels)
 
-    actual_threshold = fixed_threshold_value # Default
-    threshold_type_used = "fixed" # Default type name
+    actual_threshold = fixed_threshold_value
+    threshold_type_used = "fixed"
 
     if threshold_strategy == "fixed":
         actual_threshold = fixed_threshold_value
@@ -150,7 +142,6 @@ def evaluate_model(
         threshold_type_used = f"fixed ({fixed_threshold_value})"
 
     elif threshold_strategy in ["maximize_f1", "maximize_j"]:
-        # Find the threshold using the specified strategy ON THE PROVIDED DATA
         optimal_threshold, _ = find_optimal_threshold(true_labels_arr, scores_arr, strategy=threshold_strategy)
         actual_threshold = optimal_threshold
         threshold_type_used = f"optimized ({threshold_strategy})"
@@ -160,14 +151,12 @@ def evaluate_model(
          raise ValueError(f"Unknown threshold_strategy: {threshold_strategy}")
 
 
-    # Apply the determined threshold
     binary_predictions = apply_threshold(scores_arr, actual_threshold)
     results["threshold_strategy_requested"] = threshold_strategy
     results["threshold_applied"] = actual_threshold
-    results["threshold_type_used"] = threshold_type_used # Describes how threshold was obtained
+    results["threshold_type_used"] = threshold_type_used 
     results["binary_predictions"] = np.array(binary_predictions)
 
-    # Calculate metrics based on the binary predictions and original scores
     results["metrics"] = calculate_metrics(true_labels_arr, results["binary_predictions"], scores_arr)
 
     # Calculate data for curves if possible

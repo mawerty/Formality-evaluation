@@ -1,4 +1,3 @@
-# data_loader.py
 import os
 import glob
 import pandas as pd
@@ -81,7 +80,6 @@ def load_datasets(
                 print(f"Warning: No type found for file {file_path}. Defaulting to 'other'.")
                 sentences_types = ["other"] * len(sentences)
             
-            # Append to final lists
             all_sentences.extend(sentences)
             all_labels.extend(labels)
             all_sentences_types.extend(sentences_types)

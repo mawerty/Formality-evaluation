@@ -8,13 +8,11 @@ import seaborn as sns
 import logging
 import sys
 
-# --- Configuration ---
-# Define the expected categories for ordering plots correctly
 SENTENCE_TYPES_ORDER = ["education", "emergency", "guides", "workplace"]
 SENTENCE_LENGTHS_ORDER = ["small", "medium", "long"]
 
 INPUT_DIR = "outputs"
-OUTPUT_DIR_BASE = "results" # New output dir name
+OUTPUT_DIR_BASE = "results" 
 INDIVIDUAL_PLOT_DIR = os.path.join(OUTPUT_DIR_BASE, "individual_eval_plots")
 COMPARISON_PLOT_DIR = os.path.join(OUTPUT_DIR_BASE, "comparison_plots")
 CSV_OUTPUT_DIR = os.path.join(OUTPUT_DIR_BASE, "metrics_csv")

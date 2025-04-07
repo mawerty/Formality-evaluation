@@ -18,7 +18,7 @@ This project provides a framework to evaluate and compare various formality dete
 
 ## Setup
 
-1.  **Clone:** `git clone <url>` && `cd <folder>`
+1.  **Clone:** `git clone https://github.com/mawerty/Codellama-tuning.git` && `cd Codellama-tuning`
 2.  **Virtual Env (Recommended):** `python -m venv venv` && `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
 3.  **Install Deps:** `pip install -r requirements.txt`
 4.  **Datasets:** Datasets are avaible in `/datasets/` (check `config.py` and `data_loader.py`).
